@@ -27,6 +27,8 @@ h3{
 }
 p{
   line-height: 2;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif; 
 }
 hr{ 
     border:dotted #EAF6F6 6px;
